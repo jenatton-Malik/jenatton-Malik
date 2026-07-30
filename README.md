@@ -4,20 +4,27 @@
 
 I design and build across the full stack: **analog & power electronics, PCB design, embedded systems, mechanical design and 3D printing.** I learn by building things that are harder than they should be.
 
-🔬 Last year I interned at **CERN** (MTA section), where I developed a software interface for oscilloscope.
+🔬 Last year I interned at **CERN** (MTA section), where I developed a software interface for an oscilloscope.
 
 ---
 
 ### 🚀 Featured projects
 
-- **[5-DOF-Robotic-Arm](https://github.com/jenatton-Malik/5dof-robotic-arm)** — An 80 cm-reach robotic arm with CNC-machined aircraft-grade aluminium gearboxes, carbon-fibre links, and a custom control board (ARM Cortex M7 + Raspberry Pi 5).
-- **[6-Layer Robot Control Board](#)** — Custom motor-control PCB designed in KiCad, routed across 6 layers with zero DRC errors.
+- **[5-DOF Robotic Arm](https://github.com/jenatton-Malik/5dof-robotic-arm)** — A 76 cm-reach robotic arm with self-designed cycloidal gearboxes and a custom 6-layer control board (Teensy 4.1 / Cortex-M7 + Raspberry Pi 5).
 - **[High-Power ZVS Driver](#)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
 - **[Discrete 555 Timer](#)** — The classic NE555, rebuilt from individual transistors to understand it inside-out.
 - **[Ballistic Simulator](#)** — A physics simulation written in Python.
 - **[Web-Controlled Nerf Turret](https://github.com/jenatton-Malik/nerf-turret)** — My very first project: a pan/tilt Nerf turret controlled through a local web interface. Where it all started.
 
 *(links coming as I publish each repo)*
+
+---
+
+### 🔬 The Lab
+
+Everything I build gets designed, soldered and measured in a home lab I've put together piece by piece — oscilloscope, logic analysers, bench instruments, two 3D printers and a homelab server.
+
+**[→ Take a look inside](https://github.com/jenatton-Malik/lab)**
 
 ---
 
