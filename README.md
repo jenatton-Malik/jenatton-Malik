@@ -35,4 +35,4 @@ I run a self-hosted server with an **RTX 3060 (12 GB)** for running local LLMs a
 
 ### 📫 Reach me
 
-- Email: *(ton nouvel email pro)*
+- Email: *jnttmalik@icloud.com*
