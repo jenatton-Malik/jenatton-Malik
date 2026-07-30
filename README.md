@@ -40,6 +40,12 @@ I run a self-hosted server with an **RTX 3060 (12 GB)** for running local LLMs a
 
 ---
 
+### 🙏 Thanks
+
+None of this would exist without my father — he's backed every project I've started, helped fund them, and been there from the first 3D print to the robotic arm. Thank you.
+
+---
+
 ### 📫 Reach me
 
 - Email: *jnttmalik@icloud.com*
