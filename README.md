@@ -15,7 +15,7 @@ I design and build across the full stack: **analog & power electronics, PCB desi
 - **[High-Power ZVS Driver](#)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
 - **[Discrete 555 Timer](#)** — The classic NE555, rebuilt from individual transistors to understand it inside-out.
 - **[Ballistic Simulator](#)** — A physics simulation written in Python.
-- - **[Web-Controlled Nerf Turret](#)** — My very first project: a pan/tilt Nerf turret controlled through a local web interface. Where it all started.
+- **[Web-Controlled Nerf Turret](https://github.com/jenatton-Malik/nerf-turret)** — My very first project: a pan/tilt Nerf turret controlled through a local web interface. Where it all started.
 
 *(links coming as I publish each repo)*
 
