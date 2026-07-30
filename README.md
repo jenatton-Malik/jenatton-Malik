@@ -10,8 +10,7 @@ I design and build across the full stack: **analog & power electronics, PCB desi
 
 ### 🚀 Featured projects
 
-- **[5-DOF-Robotic-Arm]([#](https://github.com/jenatton-Malik/5dof-robotic-arm))** — An 80 cm-reach robotic arm with CNC-machined aircraft-grade aluminium gearboxes, carbon-fibre links, and a custom control board (ARM Cortex
-- M7 + Raspberry Pi 5).
+- **[5-DOF-Robotic-Arm](https://github.com/jenatton-Malik/5dof-robotic-arm)** — An 80 cm-reach robotic arm with CNC-machined aircraft-grade aluminium gearboxes, carbon-fibre links, and a custom control board (ARM Cortex M7 + Raspberry Pi 5).
 - **[6-Layer Robot Control Board](#)** — Custom motor-control PCB designed in KiCad, routed across 6 layers with zero DRC errors.
 - **[High-Power ZVS Driver](#)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
 - **[Discrete 555 Timer](#)** — The classic NE555, rebuilt from individual transistors to understand it inside-out.
