@@ -4,7 +4,7 @@
 
 I design and build across the full stack: **analog & power electronics, PCB design, embedded systems, mechanical design and 3D printing.** I learn by building things that are harder than they should be.
 
-🔬 Last year I interned at **CERN** (MTA section), where I developed a software interface for the CMS experiment.
+🔬 Last year I interned at **CERN** (MTA section), where I developed a software interface for oscilloscope.
 
 ---
 
