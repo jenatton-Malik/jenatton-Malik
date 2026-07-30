@@ -11,7 +11,7 @@ I design and build across the full stack: **analog & power electronics, PCB desi
 ### 🚀 Featured projects
 
 - **[5-DOF Robotic Arm](https://github.com/jenatton-Malik/5dof-robotic-arm)** — A 76 cm-reach robotic arm with self-designed cycloidal gearboxes and a custom 6-layer control board (Teensy 4.1 / Cortex-M7 + Raspberry Pi 5).
-- **[High-Power ZVS Driver](#)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
+- **[High-Power ZVS Driver](https://github.com/jenatton-Malik/zvs-driver)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
 - **[Discrete 555 Timer](#)** — The classic NE555, rebuilt from individual transistors to understand it inside-out.
 - **[Ballistic Simulator](#)** — A physics simulation written in Python.
 - **[Web-Controlled Nerf Turret](https://github.com/jenatton-Malik/nerf-turret)** — My very first project: a pan/tilt Nerf turret controlled through a local web interface. Where it all started.
