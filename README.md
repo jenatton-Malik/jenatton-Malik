@@ -42,7 +42,7 @@ Everything I build gets designed, soldered and measured in a home lab I've put t
 `Fusion 360` · `Mechanical design from scratch` · `Cycloidal gearbox design` · `FDM 3D printing`
 
 **Software**
-`Python` · `Data visualisation (NumPy, Matplotlib)` · `Web interfaces (HTML / CSS / JS)`
+`Python` · `Machine learning (applied to robotics)` · `Data visualisation (NumPy, Matplotlib)` · `Web interfaces (HTML / CSS / JS)`
 
 **Infrastructure**
 `Linux` · `Self-hosting` · `Networking` · `Local LLM deployment`
