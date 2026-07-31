@@ -30,7 +30,22 @@ Everything I build gets designed, soldered and measured in a home lab I've put t
 
 ---
 
-### 🛠️ What I work with
+### 🛠️ What I work with & Skilles
+
+**Electronics**
+`Analog & power electronics` · `Schematic capture` · `PCB design (KiCad, up to 6 layers)` · `LTspice simulation` · `Board-level repair & debug` · `Oscilloscope / logic analyser / LCR characterization`
+
+**Embedded**
+`ESP32` · `Teensy / ARM Cortex-M` · `Arduino` · `I²C · UART · PWM` · `Sensor integration (encoders, thermistors, current sensing)`
+
+**Mechanical**
+`Fusion 360` · `Mechanical design from scratch` · `Cycloidal gearbox design` · `FDM 3D printing`
+
+**Software**
+`Python` · `Data visualisation (NumPy, Matplotlib)` · `Web interfaces (HTML / CSS / JS)`
+
+**Infrastructure**
+`Linux` · `Self-hosting` · `Networking` · `Local LLM deployment`
 
 `Analog & Power Electronics` · `PCB Design (KiCad)` · `Board-Level Repair & Debug` · `Embedded Systems (Arduino / STM32)` · `Python` · `Mechanical Design & CAD` · `3D Printing (FDM)` · `Networking & Self-hosting`
 
