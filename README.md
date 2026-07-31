@@ -15,7 +15,7 @@ All my boards are manufactured by **JLCPCB** — every PCB in these projects cam
 - **[5-DOF Robotic Arm](https://github.com/jenatton-Malik/5dof-robotic-arm)** — A 76 cm-reach robotic arm with self-designed cycloidal gearboxes and a custom 6-layer control board (Teensy 4.1 / Cortex-M7 + Raspberry Pi 5).
 - **[High-Power ZVS Driver](https://github.com/jenatton-Malik/zvs-driver)** — A high-power Zero-Voltage-Switching driver, characterized on the bench.
 - **[Discrete 555 Timer](#)** — The classic NE555, rebuilt from individual transistors to understand it inside-out.
-- **[Ballistic Simulator](#)** — A physics simulation written in Python.
+- **[Ballistic Simulator](https://github.com/jenatton-Malik/ballistic-simulator)** — A physics simulation written in Python.
 - **[Web-Controlled Nerf Turret](https://github.com/jenatton-Malik/nerf-turret)** — My very first project: a pan/tilt Nerf turret controlled through a local web interface. Where it all started.
 
 *(links coming as I publish each repo)*
