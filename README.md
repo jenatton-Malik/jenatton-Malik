@@ -8,6 +8,8 @@ All my boards are manufactured by **JLCPCB** — every PCB in these projects cam
 
 🔬 Last year I interned at **CERN** (MTA section), where I developed Python interfaces for an oscilloscope and a function generator. I left with a recommendation letter from my supervisor. *(available on request)*
 
+🤖 In July 2026, I interned at **Protocrafted**, an engineering company, where I worked on machine learning applied to robotics and did professional 3D modelling.
+
 ---
 
 ### 🚀 Featured projects
