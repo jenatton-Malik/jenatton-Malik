@@ -6,7 +6,7 @@ I design and build across the full stack: **analog & power electronics, PCB desi
 
 All my boards are manufactured by **JLCPCB** — every PCB in these projects came from them.
 
-🔬 Last year I interned at **CERN** (MTA section), where I developed Python interfaces for an oscilloscope and a function generator, and visited several test installations.
+🔬 Last year I interned at **CERN** (MTA section), where I developed Python interfaces for an oscilloscope and a function generator. I left with a recommendation letter from my supervisor. *(available on request)*
 
 ---
 
