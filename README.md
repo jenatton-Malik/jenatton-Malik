@@ -30,7 +30,7 @@ Everything I build gets designed, soldered and measured in a home lab I've put t
 
 ---
 
-### 🛠️ What I work with & Skilles
+### 🛠️ Skills
 
 **Electronics**
 `Analog & power electronics` · `Schematic capture` · `PCB design (KiCad, up to 6 layers)` · `LTspice simulation` · `Board-level repair & debug` · `Oscilloscope / logic analyser / LCR characterization`
@@ -46,8 +46,6 @@ Everything I build gets designed, soldered and measured in a home lab I've put t
 
 **Infrastructure**
 `Linux` · `Self-hosting` · `Networking` · `Local LLM deployment`
-
-`Analog & Power Electronics` · `PCB Design (KiCad)` · `Board-Level Repair & Debug` · `Embedded Systems (Arduino / STM32)` · `Python` · `Mechanical Design & CAD` · `3D Printing (FDM)` · `Networking & Self-hosting`
 
 ---
 
