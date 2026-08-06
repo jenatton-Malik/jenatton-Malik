@@ -1,14 +1,28 @@
 ## Hi, I'm Malik Jenatton 👋
 
-16-year-old electronics, robotics and mechatronics builder from France — you might know my boards by the **"MJ"** signature on the silkscreen.
+16-year-old electronics, robotics and mechatronics builder from France —
+you might know my boards by the **"MJ"** signature on the silkscreen.
 
-I design and build across the full stack: **analog & power electronics, PCB design, embedded systems, mechanical design and 3D printing.** I learn by building things that are harder than they should be.
+I design and build across the full stack: **analog & power electronics,
+PCB design, embedded systems, mechanical design and 3D printing.**
+I learn by building things that are harder than they should be.
 
-All my boards are manufactured by **JLCPCB** — every PCB in these projects came from them.
+---
 
-🔬 Last year I interned at **CERN** (MTA section), where I developed Python interfaces for an oscilloscope and a function generator. I left with a recommendation letter from my supervisor. *(available on request)*
+### 💼 Experience
 
-🤖 In July 2026, I interned at **Protocrafted**, an engineering company, where I worked on machine learning applied to robotics and did professional 3D modelling.
+**CERN** — MTA section · *January 2025*
+Developed Python interfaces for an oscilloscope and a function generator.
+Left with a recommendation letter from my supervisor *(available on request)*.
+
+**DepanPac** — refrigeration & HVAC maintenance · *June 2026*
+Field diagnostics on customer sites: temperature and delta-T measurements,
+voltage and capacitor testing on heat pumps and A/C systems. Board-level
+repair of a customer's faulty control PCB, done in my own lab.
+
+
+**Protocrafted** — engineering company · *July 2026*
+Machine learning applied to robotics, and professional 3D modelling.
 
 ---
 
